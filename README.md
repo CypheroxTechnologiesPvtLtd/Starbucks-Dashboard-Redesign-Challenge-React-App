@@ -1,4 +1,4 @@
-# [Starbucks Design Redesign Challenge React App](https://github.com/CypheroxTechnologiesPvtLtd/Starbucks-Design-Redesign-Challenge-React-App)
+# [Starbucks Dashboard Redesign Challenge - ReactJS](https://github.com/CypheroxTechnologiesPvtLtd/Starbucks-Design-Redesign-Challenge-React-App)
 
 [![mui version](https://img.shields.io/badge/MUI-5.2.7-blue)](https://mui.com/)
 [![chartjs version](https://img.shields.io/badge/chartjs-3.7.0-yellowgreen)](https://www.chartjs.org/)
