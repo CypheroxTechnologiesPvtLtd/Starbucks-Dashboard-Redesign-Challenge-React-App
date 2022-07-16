@@ -30,7 +30,7 @@ http://localhost:3000
 
 ## Screenshort
 
-![Starbucks Design Redesign Challenge React App](https://raw.githubusercontent.com/CypheroxTechnologiesPvtLtd/React-E-Commerce-Dashboard/master/AdminMUI-React-E-Commerce-Dashboard.png)
+![Starbucks Design Redesign Challenge React App](https://raw.githubusercontent.com/CypheroxTechnologiesPvtLtd/Starbucks-Design-Redesign-Challenge-React-App/master/Starbucks%20Design%20Redesign%20Challenge%20React%20App-preview.png)
 
 ## Connect with us
 
