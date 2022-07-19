@@ -30,7 +30,23 @@ http://localhost:3000
 
 ## Screenshort
 
+
 ![Starbucks Design Redesign Challenge React App](https://raw.githubusercontent.com/CypheroxTechnologiesPvtLtd/Starbucks-Design-Redesign-Challenge-React-App/master/Starbucks%20Design%20Redesign%20Challenge%20React%20App-preview.png)
+
+![Starbucks Design Redesign Challenge React App](https://github.com/CypheroxTechnologiesPvtLtd/Starbucks-Dashboard-Redesign-Challenge-React-App/blob/master/images/img6-edited.jpg?raw=true)
+
+
+![Starbucks Design Redesign Challenge React App](https://github.com/CypheroxTechnologiesPvtLtd/Starbucks-Dashboard-Redesign-Challenge-React-App/blob/master/images/img2.jpg?raw=true)
+
+
+![Starbucks Design Redesign Challenge React App](https://github.com/CypheroxTechnologiesPvtLtd/Starbucks-Dashboard-Redesign-Challenge-React-App/blob/master/images/img4.jpg?raw=true)
+
+
+![Starbucks Design Redesign Challenge React App](https://raw.githubusercontent.com/CypheroxTechnologiesPvtLtd/Starbucks-Dashboard-Redesign-Challenge-React-App/master/images/img3.jpg)
+
+
+![Starbucks Design Redesign Challenge React App](https://github.com/CypheroxTechnologiesPvtLtd/Starbucks-Dashboard-Redesign-Challenge-React-App/blob/master/images/img5.jpg?raw=true)
+
 
 ## Connect with us
 
