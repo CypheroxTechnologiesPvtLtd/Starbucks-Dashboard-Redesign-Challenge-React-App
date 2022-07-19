@@ -1,0 +1,85 @@
+.main-div {
+    background: var(--main-bg);
+    box-shadow: var(--box-shadow);
+    border-radius: var(--border-radius);
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.header {
+    display: flex;
+    padding: 30px;
+    justify-content: space-between;
+}
+
+.header>p {
+    text-transform: uppercase
+}
+
+.header>i {
+    font-size: 1.7rem;
+}
+
+.img-div {
+    background: var(--card-color);
+    height: 40vh;
+    width: 20vw;
+    background-image: url('../../assets//images/trending-back.png');
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    background-size: 400px 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translatey(0px);
+    /* animation: float 6s ease-in-out infinite; */
+
+}
+
+@keyframes float {
+    0% {
+        box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
+        transform: translatey(0px);
+    }
+
+    50% {
+        box-shadow: 0 25px 15px 0px rgba(0, 0, 0, 0.2);
+        transform: translatey(-20px);
+    }
+
+    100% {
+        box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
+        transform: translatey(0px);
+    }
+}
+
+
+
+.img-outer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.img-outer>p {
+    padding: 15px;
+    font-size: 1.6rem;
+}
+
+
+.img-div>img {
+    height: 40vh;
+    width: 13vw;
+    padding-bottom: 40px;
+    position: absolute;
+}
+
+.transactions {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* padding: 15px; */
+}

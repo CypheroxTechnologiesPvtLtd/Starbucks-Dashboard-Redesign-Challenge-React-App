@@ -1,0 +1,38 @@
+.transaction-status {
+    display: flex;
+}
+
+.transaction-main {
+    min-width: 10vw;
+}
+
+.transaction-header {
+    padding: auto;
+}
+
+.transaction-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+}
+
+.transaction-status {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: var(--border-radius);
+    padding: 10px;
+}
+
+.transaction-count>p {
+    font-size: 1.7rem;
+    margin: 0px;
+}
+
+.transaction-percentage {
+    margin-left: 10px
+}
+
+.transaction-percentage>p {
+    margin: 0px;
+}

@@ -1,0 +1,128 @@
+.status-card {
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    background-color: var(--main-bg);
+    box-shadow: var(--box-shadow);
+    border-radius: var(--border-radius);
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    transition: color 0.5s ease 0s;
+    margin-bottom: 30px;
+
+}
+
+.status-card__icon {
+    width: 30%;
+    height: 100%;
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+}
+
+.status-card__info {
+    flex-grow: 1;
+    text-align: center;
+    z-index: 1;
+    text-transform: capitalize;
+}
+
+.status-card__info>h4 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.status-card::before {
+    content: "";
+    width: 100%;
+    padding-top: 100%;
+    border-radius: 50%;
+    background-image: linear-gradient(to top right,
+            var(--second-color),
+            var(--second-color));
+    position: absolute;
+    left: -50%;
+    top: 0;
+    transform: scale(0);
+    transition: transform 0.8s ease 0s;
+}
+
+.status-card:hover::before {
+    transform: scale(3);
+}
+
+.status-card:hover {
+    color: var(--txt-white) !important;
+
+}
+
+.card-top:hover {
+    color: var(--txt-white) !important;
+}
+
+.staus-card__icon {
+    height: 100px;
+    width: 100px;
+    background: var(--card-color);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.staus-card__icon:hover {
+    background: var(--main-color);
+}
+
+.staus-card__icon>img {
+    width: 75px;
+    height: 75px
+}
+
+.card-top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    z-index: 999;
+
+}
+
+.product-type {
+    color: var(--second-color-green)
+}
+
+.status-card>hr {
+    height: 2px;
+    background: var(--second-color-green);
+    width: 100%;
+}
+
+.product {
+    text-transform: uppercase;
+}
+
+.product-count {
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+
+.status-card__info {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100%;
+    align-items: flex-start;
+
+}
+
+.status-card__info__inner {
+    display: flex;
+    justify-content: space-around
+}

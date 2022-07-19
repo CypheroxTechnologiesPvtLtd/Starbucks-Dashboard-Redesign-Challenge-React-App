@@ -1,0 +1,27 @@
+[
+    {
+        "display_name": "Home",
+        "route": "/home",
+        "icon": "bx bx-home-alt"
+    },
+    {
+        "display_name": "Orders",
+        "route": "/orders",
+        "icon": "bx bx-spreadsheet"
+    },
+    {
+        "display_name": "Analytics",
+        "route": "/analytics",
+        "icon": "bx bx-bar-chart-square"
+    },
+    {
+        "display_name": "Products",
+        "route": "/products",
+        "icon": "bx bx-coffee-togo"
+    },
+    {
+        "display_name": "Employees",
+        "route": "/employees",
+        "icon": "bx bxs-group"
+    }
+]

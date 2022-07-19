@@ -1,0 +1,105 @@
+.topnav-main {
+    margin-left: 30px;
+    margin-right: 25px;
+    margin-top: 10px;
+    min-height: var(--topnav-height);
+    background-color: var(--main-bg);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    /* position: fixed;
+    z-index: 999;
+    width: 82%; */
+
+    /* margin-bottom: 100px; */
+    /* bottom: 10px; */
+}
+
+.greeting {
+    padding: 10px 15px;
+    margin: 0px;
+
+}
+
+.topnav-main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.greeting-text .welcome-text {
+    padding: 5px 5px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.topnav__search {
+    position: relative;
+    max-width: 400px;
+    height: 50px;
+    background-color: var(--main-bg);
+    display: flex;
+    align-items: center;
+    box-shadow: var(--box-shadow);
+    border-radius: var(--border-radius);
+    overflow: hidden;
+}
+
+.topnav__search>input {
+    height: 100%;
+    width: 100%;
+    padding: 10px 60px 10px 20px;
+    font-size: 1rem;
+    border-radius: var(--border-radius);
+    color: var(--txt-color);
+    background-color: var(--main-bg);
+    border: none !important;
+}
+
+.topnav__search>i {
+    font-size: 1.5rem;
+    position: absolute;
+    right: 20px;
+}
+
+.notification-item {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.notification-item:hover {
+    background-color: var(--second-bg);
+}
+
+.notification-item>i {
+    margin-right: 20px;
+    font-size: 1.5rem;
+}
+
+.topnav__right {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.topnav__right-calendar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 50px;
+    border-radius: var(--button-border-radius);
+    width: 50px;
+    background: var(--second-color-green);
+}
+
+.topnav__right-calendar>i {
+    font-size: 1.8rem;
+    margin: 8px;
+    color: var(--main-color)
+}
+
+.right-topnav, .topnav__right-item, .topnav__right-calendar {
+    margin: 0px 20px;
+}
+
+.topnav__right-item {}

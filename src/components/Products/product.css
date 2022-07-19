@@ -1,0 +1,21 @@
+.pophover>p {
+    margin: 0px !important;
+}
+
+.pophover {
+    display: flex !important;
+    align-items: flex-end !important;
+    justify-content: flex-end !important;
+    padding: 5px;
+}
+
+.pophover-hr {
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.pophover-p {
+    margin: 0px !important;
+    min-width: 60px;
+    padding: 10px
+}

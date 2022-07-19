@@ -1,0 +1,23 @@
+.card {
+    background-color: var(--main-bg);
+    box-shadow: var(--box-shadow);
+    border-radius: var(--border-radius);
+}
+
+.visitors {
+    text-transform: uppercase;
+    padding-top: 20px;
+    padding-left: 20px
+}
+
+.table {
+    background: var(--main-bg);
+    padding: 30px;
+    box-shadow: var(--box-shadow);
+    border-radius: var(--border-radius);
+}
+
+.bill-payment {
+    text-transform: uppercase;
+    padding: 15px;
+}

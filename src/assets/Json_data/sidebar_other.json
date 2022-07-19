@@ -1,0 +1,12 @@
+[
+    {
+        "display_name": "Help",
+        "route": "/help",
+        "icon": "bx bx-help-circle"
+    },
+    {
+        "display_name": "Settings",
+        "route": "/settings",
+        "icon": "bx bx-cog"
+    }
+    ]
