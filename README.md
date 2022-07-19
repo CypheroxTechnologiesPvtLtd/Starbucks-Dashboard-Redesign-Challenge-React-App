@@ -52,6 +52,8 @@ http://localhost:3000
 ![Starbucks Design Redesign Challenge React App](https://github.com/CypheroxTechnologiesPvtLtd/Starbucks-Dashboard-Redesign-Challenge-React-App/blob/master/images/img5.jpg?raw=true)
 
 
+[App Preview Link @ netlify 😀 ](https://62d689e6cec4867f42d0dbb5--resonant-seahorse-db9a24.netlify.app/home) 
+
 ## Connect with us
 
 <p align="left">
