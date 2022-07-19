@@ -10,6 +10,10 @@ Starbucks Dashboard Redesign Challenge - ReactJS ( Design From UpLabs )
 
 Create beautiful [React](https://reactjs.org/) apps in a flash. "Starbucks Dashboard" is a simple and customizable component dashboard that allows you to create a faster, more beautiful, and more accessible React e-commerce app. Start with [Starbucks Dashboard](https://github.com/CypheroxTechnologiesPvtLtd/Starbucks-Design-Redesign-Challenge-React-App) or your own dashboard design.
 
+Design From - Uplabs : [Preview Link](https://www.uplabs.com/posts/starbucks-dashboard-14194e2f-cc8a-4b93-bfa2-851432c9054a) 
+
+[Starbucks App Redesign Challenge - Runners-up Design](https://www.uplabs.com/challenges/starbucks-app-redesign-challenge/results) :  ( Figma )
+
 ## Installation
 
 ```sh
